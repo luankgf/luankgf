@@ -11,6 +11,5 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante da área de Front-End.
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-- [b]Linguagens e Ferramentas de Desenvolvimento[/b]:
   - HTML/CSS
   - JavaScript

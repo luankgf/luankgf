@@ -6,6 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante da área de Front-End.
 
 - 🔭 Estou a procura de Estágio
 - 📫 Como me encontrar: email: luan.klebergf@hotmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanklebergf/)
 
 ## Tecnologias e Ferramentas
 

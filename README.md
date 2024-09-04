@@ -1,6 +1,6 @@
 # Olá, eu sou Luan 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante da área de Desenvolvedor Front-End. 
+Bem-vindo ao meu perfil do GitHub! Meu foco dos estudos e projetos é como Desenvolvedor Front-End. 
 
 ## Sobre Mim
 

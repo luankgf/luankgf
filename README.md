@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil do GitHub! Meu foco dos estudos e projetos é como Desen
 
 ## Sobre Mim
 
-- 🔭 Estou a procura de Estágio
 - 📫 Como me encontrar: email: luan.klebergf@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanklebergf/)
 
@@ -14,3 +13,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
   - HTML/CSS
   - JavaScript
+  - Node.js
+  - Express.js

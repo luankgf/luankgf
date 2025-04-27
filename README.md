@@ -14,4 +14,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
   - HTML/CSS
   - JavaScript
   - Node.js
+  - React
   - Express.js

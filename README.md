@@ -16,3 +16,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
   - Node.js
   - React
   - Express.js
+  - Vite
